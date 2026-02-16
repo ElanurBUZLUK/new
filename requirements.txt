@@ -1,0 +1,13 @@
+pandas
+ipywidgets
+spacy
+spacy-transformers
+wordfreq
+python-dotenv
+typing-extensions
+langchain-core
+langgraph
+langchain-openai
+langchain-ollama
+langchain-mcp-adapters
+torch
